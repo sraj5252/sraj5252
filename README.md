@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj Singh Rajput</h1>
+<h1 align="center">Hi 👋, I'm Raj Singh</h1>
 <h3 align="center">Backend Developer | MERN Stack Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
@@ -54,7 +54,7 @@ A memory game with random color sequences and score tracking.
 ## 🏆 Achievements
 
 - 🧠 **100 Days of Code** on LeetCode
-- ✅ Solved **160+ problems** — strengthening DSA and problem-solving daily
+- ✅ Solved **200+ problems** — strengthening DSA and problem-solving daily
 - 🎓 Certified in **Python Full Stack** (AICTE) & **Java DSA** (Apna College)
 
 ---
